@@ -1,16 +1,13 @@
-# 💻 Juan Pablo - Desarrollador Web
+# 💻 MAKIDE - Desarrollador Web
 
-![Banner](URL_DEL_BANNER)
+![Banner](BANNER-MAKIDEV.png)
 
 ## 🚀 Sobre mí
-Hola, soy **Juan Pablo**, un apasionado de la programación web en constante aprendizaje. Me encanta construir proyectos y explorar nuevas tecnologías.
+Hola, mi nombre **Juan Pablo**, aunque digitalmente soy más conocido como **MAKIDE**, un apasionado de la programación web en constante aprendizaje. Me encanta construir proyectos y explorar nuevas tecnologías.
 
 ## 🛠️ Tecnologías y Herramientas
 ```md
 - 🌐 HTML | CSS | JavaScript
-- ⚛️ React | Next.js
-- 🖥️ Node.js | Express
-- 📦 MongoDB | Firebase
 - 🛠️ Git | GitHub
 ```
 
@@ -22,12 +19,14 @@ Hola, soy **Juan Pablo**, un apasionado de la programación web en constante apr
 ```
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=M4KIDEV&show_icons=true&theme=radical)
 
 ## 📫 Conéctate conmigo
 ```md
 - LinkedIn: [TuPerfil](URL_LINKEDIN)
-- Twitter: [@TuUsuario](URL_TWITTER)
+- Instagram: [@TuUsuario](URL_TWITTER)
+- YouTube: [@TuUsuario](URL_TWITTER)
+- Twitch: [@TuUsuario](URL_TWITTER)
 - Correo: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
 ```
 
