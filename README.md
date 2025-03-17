@@ -1,6 +1,6 @@
-# 💻 MAKIDE - Desarrollador Web
-
 ![Banner](BANNER-MAKIDEV.png)
+
+# 💻 MAKIDE - Desarrollador Web
 
 ## 🚀 Sobre mí
 Hola, mi nombre **Juan Pablo**, aunque digitalmente soy más conocido como **MAKIDE**, un apasionado de la programación web en constante aprendizaje. Me encanta construir proyectos y explorar nuevas tecnologías.
