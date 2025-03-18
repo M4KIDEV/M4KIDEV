@@ -19,8 +19,12 @@ Hello, my name is *Juan Pablo*, although I'm better known online as **MAKIDE**, 
 
 
 ## 📊 GitHub Stats
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=M4KIDEV&show_icons=true&theme=radical)
-
+<p align="center" style="display: flex;">
+<a href="https://github.com/M4KIDEV">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=M4KIDEV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M4KIDEV&layout=compact&langs_count=8&theme=algolia"/> -->
+</a>
+</p>
 
 ## 📫 Connect with Me
 - LinkedIn: [m4kidev](https://www.linkedin.com/in/m4kidev)
