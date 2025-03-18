@@ -3,7 +3,7 @@
 ![Banner](BANNER-MAKIDEV.png)
 
 ## 🚀 About Me
-Hello, my name is **Juan Pablo**, although I'm better known online as **MAKIDE**, a passionate web developer in constant learning. I love building projects and exploring new technologies.
+Hello, my name is *Juan Pablo*, although I'm better known online as **MAKIDE**, a passionate web developer in constant learning. I love building projects and exploring new technologies.
 
 ## 🛠️ Technologies and Tools
 ```md
