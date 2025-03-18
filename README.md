@@ -22,15 +22,14 @@ Hello, my name is *Juan Pablo*, although I'm better known online as **MAKIDE**, 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=M4KIDEV&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-```md
 - LinkedIn: [m4kidev](https://www.linkedin.com/in/m4kidev)
 - Instagram: [@m4kidev](https://www.instagram.com/m4kidev/)
 - YouTube: [@m4kidev](https://www.youtube.com/@m4kidev)
-- Twitch: [@m4kidev](https://www.twitch.tv/m4kidev))
+- Twitch: [@m4kidev](https://www.twitch.tv/m4kidev)
 - Correo: [m4kidev@gmail.com](mailto:m4kidev@gmail.com)
-```
 
-Thanks for visiting my profile! 🚀
+<br>
+<h3>Thanks for visiting my profile! 🚀</h3>
 
 
 
