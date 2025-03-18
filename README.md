@@ -1,27 +1,27 @@
-# 💻 MAKIDE - Desarrollador Web
+# 💻 MAKIDE - Web Developer
 
 ![Banner](BANNER-MAKIDEV.png)
 
-## 🚀 Sobre mí
-Hola, mi nombre **Juan Pablo**, aunque digitalmente soy más conocido como **MAKIDE**, un apasionado de la programación web en constante aprendizaje. Me encanta construir proyectos y explorar nuevas tecnologías.
+## 🚀 About Me
+Hello, my name is **Juan Pablo**, although I'm better known online as **MAKIDE**, a passionate web developer in constant learning. I love building projects and exploring new technologies.
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 ```md
 - 🌐 HTML | CSS | JavaScript
 - 🛠️ Git | GitHub
 ```
 
-## 📌 Proyectos Destacados
+## 📌 Featured Projects
 ```md
-1. **[Nombre del Proyecto 1](URL_DEL_REPOSITORIO)** - Breve descripción.
-2. **[Nombre del Proyecto 2](URL_DEL_REPOSITORIO)** - Breve descripción.
-3. **[Nombre del Proyecto 3](URL_DEL_REPOSITORIO)** - Breve descripción.
+1. **[Project Name 1](REPOSITORY_URL)** - Brief description.  
+2. **[Project Name 2](REPOSITORY_URL)** - Brief description.  
+3. **[Project Name 3](REPOSITORY_URL)** - Brief description.  
 ```
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=M4KIDEV&show_icons=true&theme=radical)
 
-## 📫 Conéctate conmigo
+## 📫 Connect with Me
 ```md
 - LinkedIn: [TuPerfil](URL_LINKEDIN)
 - Instagram: [@TuUsuario](URL_TWITTER)
@@ -30,7 +30,7 @@ Hola, mi nombre **Juan Pablo**, aunque digitalmente soy más conocido como **MAK
 - Correo: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
 ```
 
-¡Gracias por visitar mi perfil! 🚀
+Thanks for visiting my profile! 🚀
 
 
 
