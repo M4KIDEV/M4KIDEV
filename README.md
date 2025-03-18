@@ -1,4 +1,4 @@
-# 💻 MAKIDE - Web Developer
+# 💻 MAKIDEV - Web Developer
 
 ![Banner](BANNER-MAKIDEV.png)
 
