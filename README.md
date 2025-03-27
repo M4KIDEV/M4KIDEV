@@ -27,9 +27,9 @@ Hello, my name is *Juan Pablo*, although I'm better known online as **MAKIDE**, 
 </p>
 
 ## 📫 Connect with Me
-- LinkedIn: [m4kidev](https://www.linkedin.com/in/m4kidev)
-- Instagram: [@m4kidev](https://www.instagram.com/m4kidev/)
-- YouTube: [@m4kidev](https://www.youtube.com/@m4kidev)
+- LinkedIn: [m4kide](https://www.linkedin.com/in/m4kide)
+- Instagram: [@m4kide](https://www.instagram.com/m4kide/)
+- YouTube: [@m4kide](https://www.youtube.com/@m4kide)
 - Twitch: [@m4kidev](https://www.twitch.tv/m4kidev)
 - Mail: [m4kidev@gmail.com](mailto:m4kidev@gmail.com)
 
