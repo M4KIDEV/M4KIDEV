@@ -13,9 +13,8 @@ Hello, my name is *Juan Pablo*, although I'm better known online as **MAKIDE**, 
 
 ## 📌 Featured Projects
 
-1. **[Project Name 1](REPOSITORY_URL)** - Brief description.
-2. **[Project Name 2](REPOSITORY_URL)** - Brief description.
-3. **[Project Name 3](REPOSITORY_URL)** - Brief description.  
+1. **[r4fica.com]([REPOSITORY_URL](https://r4fica.com/))** - Brief description.
+2. **[alexgm29.com](https://alexgm29.com/)** - Brief description.
 
 
 ## 📊 GitHub Stats
