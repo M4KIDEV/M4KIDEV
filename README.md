@@ -30,7 +30,7 @@ Hello, my name is *Juan Pablo*, although I'm better known online as **MAKIDE**, 
 - Instagram: [@m4kide](https://www.instagram.com/m4kide/)
 - YouTube: [@m4kide](https://www.youtube.com/@m4kide)
 - Twitch: [@m4kidev](https://www.twitch.tv/m4kidev)
-- Mail: [m4kidev@gmail.com](mailto:m4kidev@gmail.com)
+- Mail: [m4kide@gmail.com](mailto:m4kide@gmail.com)
 
 <br>
 <h3>Thanks for visiting my profile! 🚀</h3>
