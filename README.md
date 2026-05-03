@@ -13,7 +13,7 @@ Hello, my name is *Juan Pablo*, although I'm better known online as **MAKIDE**, 
 
 ## 📌 Featured Projects
 
-1. **[venuseleva.com](https://venuseleva.com/)** - Agencia de branding y desarrollo web.
+1. **[venuseleva.com](https://venuseleva.com/)** - Branding and web development agency.
 2. **[alexgm29.com](https://alexgm29.com/)** - Landing page for alexgm29.
 3. **[konttrast.pages.dev](https://konttrast.pages.dev/)** - Landing page for konttrast.bagsproduction.
 4. **[r4fica.com](https://r4fica.com/)** - Web r4fica.
